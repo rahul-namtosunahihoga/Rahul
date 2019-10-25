@@ -1,6 +1,4 @@
 # Rahul
 #include<stdio.h>
-void main()
-{
-printf("hello world");
-}
+main()
+{printf("hello world");}
